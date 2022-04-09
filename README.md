@@ -5,7 +5,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&multiline=true&width=550&lines=%D0%A3%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B0)](https://git.io/typing-svg)
 
 </h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=WayupKG alt=WayupKG/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=WayupKG alt=WayupKG/> </p>
 
 ## 👨‍💻 Языки и инструменты:
 
@@ -50,7 +50,7 @@
 
 В настоящее время изучаю DRF, RESTful API, Docker Compose/Swarm/Ansible
 
-![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayupKG&hide=issues&show_icons=true)
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=WayupKG&hide=issues&show_icons=true alt=WayupKG /> </p>
 
 ## Мои проекты:
   - Официальный сайт Бишкекского технического колледжа далее БТК (разрабатывал Frontend и Backend) <a href="https://btk.kg/" target="_blank">www.btk.kg</a>.
