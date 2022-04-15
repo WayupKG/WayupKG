@@ -50,7 +50,7 @@
 
 В настоящее время изучаю DRF, RESTful API, Docker Compose/Swarm/Ansible
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=WayupKG&hide=issues&show_icons=true alt=WayupKG /> </p>
+![WayupKG github stats](https://github-readme-stats.vercel.app/api?username=WayupKG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues)
 
 ## Мои проекты:
   - Официальный сайт Бишкекского технического колледжа далее БТК (разрабатывал Frontend и Backend) <a href="https://btk.kg/" target="_blank">www.btk.kg</a>.
