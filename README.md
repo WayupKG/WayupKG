@@ -1,11 +1,14 @@
-<h1 align="center">Привет! Меня зовут <a href="#" target="_blank">Адилет</a> 
+<h1>Привет! Меня зовут <a href="#" target="_blank">Адилет</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&multiline=true&width=550&lines=%D0%A3%D0%B2%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD%D0%B0)](https://git.io/typing-svg)
 
-</h3>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=WayupKG alt=WayupKG/> </p>
+
+<p align="center"> 
+
+![](https://komarev.com/ghpvc/?username=wayupkg) [![wakatime](https://wakatime.com/badge/user/c849c5c4-a4d9-4421-8b1b-cd7c85741773.svg)](https://wakatime.com/@c849c5c4-a4d9-4421-8b1b-cd7c85741773)
+
+</p>
 
 ## 👨‍💻 Языки и инструменты:
 
