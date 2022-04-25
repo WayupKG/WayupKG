@@ -10,33 +10,10 @@
 
 </p>
 
-## 👨‍💻 Языки и инструменты:
+# 👨‍💻 Языки и инструменты:
+## Front-end:
 
 <p align="left">
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="50"/>
-    </a>
-     <a href="" target="_blank">
-      <img src="./assets/celery.svg" width="60" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="./assets/elasticsearch.svg" width="60" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="50"/>
-    </a>
-    <a href="" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="50"/>
-    </a>
     <a href="" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="50"/>
     </a>
@@ -54,6 +31,41 @@
     </a>
     <a href="" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" width="60" height="50"/>
+    </a>
+</p>
+
+## Back-end:
+
+<p align="left">
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="50"/>
+    </a>
+     <a href="" target="_blank">
+      <img src="./assets/celery.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="./assets/elasticsearch.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="50"/>
     </a>
 </p>
 
