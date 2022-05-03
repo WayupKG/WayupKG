@@ -71,6 +71,18 @@
 
 В настоящее время изучаю DRF, RESTful API, Docker Compose/Swarm/Ansible
 
+## Mobile:
+
+<p align="left">
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="60" height="50"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60" height="50"/>
+    </a>
+</p>
+
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WayupKG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" alt=WayupKG /> </p>
 
 ## Мои проекты:
