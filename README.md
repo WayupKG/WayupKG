@@ -81,6 +81,8 @@
   - Анкетирование для БТК (разрабатывал Frontend и Backend) <a href="https://anketa.btk.kg/" target="_blank">www.anketa.btk.kg</a>.
   - Электронный документооборот для БТК. ЭДО работает только по локальной сети колледжа. (разрабатывал Frontend и Backend) <a href="https://drive.google.com/file/d/1pav6N7UFc6cbE9fJqhN4fQNThgfqSYer/view?usp=sharing" target="_blank">Скрин</a>. 
   - Электронно-библиотечная система "Эл-Китеп" (В данный момент сайт работает на WordPress'е). В настоящее время разрабатываю 2 версию ЭБС на Django. Этот проект был создан лично мной для преподавателям и студентам профессиональных учебных заведений КР в целях обеспечение электронными книгами во время карантина. <a href="https://el-kitep.kg/" target="_blank">www.el-kitep.kg</a>
+  - Официальный сайт Кыргызский международный универсальный колледж <a href="https://college.kiuc.kg/" target="_blank">www.college.kiuc.kg</a>.
+  - Официальный сайт Кыргызский институт языков и культуры <a href="https://kiuc.kg/" target="_blank">www.kiuc.kg</a>.
 
 
 ## Контакты
